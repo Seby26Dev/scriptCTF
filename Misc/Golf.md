@@ -174,6 +174,10 @@ r.sendline(payload.encode())
 
 r.interactive()
 ```
+---
 
-# Flag : scriptCTF{8u7_1_c@n7_s3e_7h3_c0d3}
+## Flag : 
 
+```
+scriptCTF{8u7_1_c@n7_s3e_7h3_c0d3}
+```
