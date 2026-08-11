@@ -2,6 +2,9 @@
 
 # Market
 
+<img width="483" height="513" alt="image" src="https://github.com/user-attachments/assets/572b441b-0cc5-4c8d-a74f-a627dcc36678" />
+
+
 The challenge is a Solana program implementing a small shop. The goal is to
 replace the owner stored in the CONFIG PDA with the public key given to us by
 the server.
