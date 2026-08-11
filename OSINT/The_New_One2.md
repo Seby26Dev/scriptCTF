@@ -5,9 +5,11 @@
 Has a very unique wishlist! Can you find what it's hiding?
 ```
 
-The pivot is realizing the wishlist is Discord's own, not Steam or Amazon. Opening john.hacker.doe1337's profile -> Wishlist tab shows 13 Discord Shop collectibles. The earlier hint, "I wish Armored Pawn was here," names a Discord Shop item — that's the nudge that the item names are the payload.
+The first step was to realize that John Doe also has a Discord user.
+The pivot is realizing the wishlist the challenge is refering is the user's Discord wishlist.
 
-Reading each item's name and taking the first letter, top-to-bottom / left-to-right:
+Putting each item's name in a file and taking the first letter, top-to-bottom / left-to-right revealed the flag:
+
 
 | #  | Item              | Letter |
 |----|-------------------|--------|
