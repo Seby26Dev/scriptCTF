@@ -5,7 +5,7 @@
 Has a very unique wishlist! Can you find what it's hiding?
 ```
 
-The pivot is realizing the wishlist is Discord's own, not Steam or Amazon. Opening john.hacker.doe1337's profile → Wishlist tab shows 13 Discord Shop collectibles. The earlier hint, "I wish Armored Pawn was here," names a Discord Shop item — that's the nudge that the item names are the payload.
+The pivot is realizing the wishlist is Discord's own, not Steam or Amazon. Opening john.hacker.doe1337's profile -> Wishlist tab shows 13 Discord Shop collectibles. The earlier hint, "I wish Armored Pawn was here," names a Discord Shop item — that's the nudge that the item names are the payload.
 
 Reading each item's name and taking the first letter, top-to-bottom / left-to-right:
 
@@ -25,7 +25,7 @@ Reading each item's name and taking the first letter, top-to-bottom / left-to-ri
 | 12 | Iraq              | I      |
 | 13 | Woody             | W      |
 
-Forward: TSEBEHTOFHSIW — gibberish. But it's a wishlist, so read it backwards:
+Forward: TSEBEHTOFHSIW - gibberish. But it's a wishlist, so read it backwards:
 
 W I S H F O T H E B E S T -> "WISH FO THE BEST"
 
