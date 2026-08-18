@@ -3,6 +3,9 @@
 ### Team: Proggatos 
 **Rank:** #6 All & #2 Open 
 
+<img width="1444" height="359" alt="image" src="https://github.com/user-attachments/assets/5b1739cc-8a27-4c81-87da-74afdda4a7f4" />
+
+<img width="248" height="143" alt="image" src="https://github.com/user-attachments/assets/ec22323e-ff2d-4db9-9fd5-f37cf94738ce" />
 
 ---
 
