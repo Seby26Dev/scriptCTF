@@ -1,10 +1,8 @@
 # ScriptCTF 2026 - Summary
 
 ### Team: Proggatos 
-**Rank:** #21 All & #13 Open 
+**Rank:** #6 All & #2 Open 
 
-<img width="1339" height="727" alt="image" src="https://github.com/user-attachments/assets/8975ab53-bd07-4ece-83e1-4610972ef4ae" />
-<img width="1416" height="790" alt="image" src="https://github.com/user-attachments/assets/15be65e3-dc64-476b-83c9-dcad06129f71" />
 
 ---
 
