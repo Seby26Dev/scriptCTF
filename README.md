@@ -10,42 +10,42 @@
 ---
 
 ## Table of Contents
-- [Web](LINK_MAIN_WEB)
-  - [404_Found](LINK_404_Found)
+- [Web](https://github.com/Seby26Dev/scriptCTF/tree/main/Web)
+  - [404_Found](https://github.com/Seby26Dev/scriptCTF/blob/main/Web/404_Found.md)
   - [wpm-game](LINK_wpm-game)
-  - [PixiePlus](LINK_PixiePlus)
-  - [wpm-game2](LINK_wpm-game2) 
-- [Forensics](LINK_MAIN_Forensics)
-  - [Bruteforced](LINK_Bruteforced)
-  - [John_Cena](LINK_John_Cena)
-  - [RecoverMyPet](LINK_RecoverMyPet)  
-- [Cryptography](LINK_MAIN_Crypto)
-  - [Misdirection](LINK_Misdirection)
-  - [Misdirection_Again](LINK_Misdirection_Again)
-  - [Oops](LINK_Oops)
-- [Reverse Engineering](LINK_Reversing)
+  - PixiePlus
+  - [wpm-game2](https://github.com/Seby26Dev/scriptCTF/blob/main/Web/wpm-game2.md) 
+- [Forensics](https://github.com/Seby26Dev/scriptCTF/tree/main/Forensics)
+  - [Bruteforced](https://github.com/Seby26Dev/scriptCTF/blob/main/Forensics/Bruteforced.md)
+  - John_Cena
+  - [RecoverMyPet](https://github.com/Seby26Dev/scriptCTF/blob/main/Forensics/RecoverMyPet.md)  
+- [Cryptography](https://github.com/Seby26Dev/scriptCTF/tree/main/Crypto)
+  - [Misdirection](https://github.com/Seby26Dev/scriptCTF/blob/main/Crypto/Misdirection.md)
+  - [Misdirection_Again](https://github.com/Seby26Dev/scriptCTF/blob/main/Crypto/Misdirection_Again.md)
+  - [Oops](https://github.com/Seby26Dev/scriptCTF/blob/main/Crypto/Oops.md)
+- [Reverse Engineering](https://github.com/Seby26Dev/scriptCTF/tree/main/Rev)
   - [F**K](LINK_F**K)
-  - [Diabolical](LINK_Diabolical)
-  - [mc-checker](LINK_mc-checker)
-  - [MeowvelousShop](LINK_MeowvelousShop)
-  - [mc-checker-2](LINK_mc-checker-2)
-- [PWN](LINK_MAIN_PWN)
-  - [FaaS_1.5](LINK_FaaS_1.5)
-  - [Leaks](LINK_Leaks)
-  - [FaaS](LINK_FaaS)
-  - [FaaS_2](LINK_FaaS_2)
-- [Blockchain](LINK_MAIN_Blockchain)
-  - [Market](LINK_Market)
-- [Misc](LINK_MAIN_Misc)
-  - [Insanity_Check](LINK_Insanity_Check)
-  - [flagcheck67](LINK_flagcheck67)
-  - [Golf?](LINK_Golf?)
+  - Diabolical
+  - mc-checker
+  - [MeowvelousShop](https://github.com/Seby26Dev/scriptCTF/blob/main/Rev/MeowvelousShop.md)
+  - mc-checker-2
+- [PWN](https://github.com/Seby26Dev/scriptCTF/tree/main/Pwn)
+  - FaaS_1.5
+  - Leaks
+  - FaaS
+  - [FaaS_2](https://github.com/Seby26Dev/scriptCTF/blob/main/Pwn/Faas2.md)
+- [Blockchain](https://github.com/Seby26Dev/scriptCTF/tree/main/Blockchain)
+  - [Market](https://github.com/Seby26Dev/scriptCTF/blob/main/Blockchain/Market.md)
+- [Misc](https://github.com/Seby26Dev/scriptCTF/tree/main/Misc)
+  - [Insanity_Check](https://github.com/Seby26Dev/scriptCTF/blob/main/Misc/Insanity.md)
+  - [flagcheck67](https://github.com/Seby26Dev/scriptCTF/blob/main/Misc/flagcheck67.md)
+  - [Golf?](https://github.com/Seby26Dev/scriptCTF/blob/main/Misc/Golf.md)
 - [OSINT](LINK_MAIN_OSINT)
-  - [The_New_One_1](LINK_The_New_One_1)
-  - [Promotion](LINK_Promotion)
-  - [The_New_One_2](LINK_The_New_One_2)
-  - [Time_Traveler](LINK_Time_Traveler)
-- [Geo-OSINT](LINK_MAIN_Geo-OSINT)
-  - [Midnight_Snack](LINK_Midnight_Snack)
-  - [Titan](LINK_Titan)
+  - The_New_One_1
+  - Promotion
+  - [The_New_One_2](https://github.com/Seby26Dev/scriptCTF/blob/main/OSINT/The_New_One2.md)
+  - Time_Traveler
+- Geo-OSINT
+  - Midnight_Snack
+  - Titan
 ---
