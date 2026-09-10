@@ -10,6 +10,7 @@
 ---
 
 ## Table of Contents
+#### -- Not all the write-ups have been posted --
 - [Web](https://github.com/Seby26Dev/scriptCTF/tree/main/Web)
   - [404_Found](https://github.com/Seby26Dev/scriptCTF/blob/main/Web/404_Found.md)
   - [wpm-game](LINK_wpm-game)
